@@ -1,13 +1,13 @@
-package com.example.GoldMetalAPI;
+package com.example.GoldMedalAPI;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GoldMetalApiApplication {
+public class GoldMedalApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GoldMetalApiApplication.class, args);
+		SpringApplication.run(GoldMedalApiApplication.class, args);
 	}
 
 }
